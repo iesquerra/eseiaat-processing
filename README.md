@@ -30,5 +30,5 @@ Destinat a estudiants de la ESEIAAT amb coneixements bàsics de programació.
 
 Places limitades, assignació segons ordre d’inscripció.
 
-Formulari d’inscripcions: https://goo.gl/forms/BANadV2kHZvOne942
-
+Formulari d’inscripcions: https://goo.gl/forms/Rd75Es5xccl2OaS02
+Email de contacte: eseiaat-processing@gmail.com
