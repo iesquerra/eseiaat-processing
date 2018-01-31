@@ -1,8 +1,5 @@
+# Taller d’introducció a la programació en Processing (febrer 2018)
 # eseiaat-processing
-
-
-
-Taller d’introducció a la programació en Processing (febrer 2018)
 
 Objectiu: Curs pràctic de programació utilitzant Processing.
 
@@ -30,6 +27,6 @@ Destinat a estudiants de la ESEIAAT amb coneixements bàsics de programació.
 
 Places limitades, assignació segons ordre d’inscripció.
 
-Formulari d’inscripcions: https://goo.gl/forms/Rd75Es5xccl2OaS02
+Formulari d’inscripcions: https://goo.gl/forms/Rd75Es5xccl2OaS02 
 
-Email de contacte: eseiaat-processing@gmail.com
+Email de contacte: eseiaat-processing@gmail.com 
