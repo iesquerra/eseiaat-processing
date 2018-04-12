@@ -1,0 +1,260 @@
+pais,regio,lifexp,population,gdp
+Abkhazia,0,,,
+Afghanistan,1,31.94,9671046,
+Akrotiri and Dhekelia,0,,,
+Albania,0,62.87,1610565,
+Algeria,2,47.5,10799997,1280.384828
+American Samoa,1,,20041,
+Andorra,0,,13377,
+Angola,2,35.98,4963068,
+Anguilla,3,,5863,
+Antigua and Barbuda,3,62.97,54657,
+Argentina,3,65.39,20625451,5251.876754
+Armenia,0,66.86,1867396,
+Aruba,3,65.66,54209,
+Australia,1,70.87,10286184,9407.685082
+Austria,0,68.75,7042634,7434.183717
+Azerbaijan,0,61.33,3894494,
+Bahamas,3,62,109527,11926.46097
+Bahrain,1,51.64,161825,
+Bangladesh,1,46.2,50101943,254.8250791
+Barbados,3,61.8,230831,3396.945712
+Belarus,0,71.59,8190006,
+Belgium,0,69.59,9152271,7454.716536
+Belize,3,60.08,92633,950.4240054
+Benin,2,38.29,2419644,256.9787667
+Bermuda,3,,44713,19588.6127
+Bhutan,1,35.94,225993,
+Bolivia,3,43.77,3354895,894.7569722
+Bosnia and Herzegovina,0,62.56,3180020,
+Botswana,2,50.34,523997,237.5222245
+Brazil,3,55.27,72758801,1447.843809
+British Virgin Islands,3,,8015,
+Brunei,1,62.52,79846,
+Bulgaria,0,69.22,7867008,
+Burkina Faso,2,35.21,4881947,122.207837
+Burundi,2,40.58,2940498,116.0098612
+Cambodia,1,42.29,5433306,
+Cameroon,2,43.46,5409083,469.2004319
+Canada,3,71,17909009,9374.882816
+Cape Verde,2,50.12,210933,
+Cayman Islands,3,,8092,
+Central African Republic,2,37.43,1503509,355.8227575
+Chad,2,40.95,2954088,253.9441747
+Channel Islands,0,70.74,109396,
+Chile,3,56.85,7651579,1841.080148
+China,1,30.53,658270094,105.4589882
+Christmas Island,1,,,
+Cocos Island,1,,,
+Colombia,3,58.03,16004714,1188.253526
+Comoros,2,44.04,193052,
+Congo- Dem. Rep.,2,43.9,15367539,324.9031665
+Congo- Rep.,2,48.25,1013581,617.7375477
+Cook Is,1,,18259,
+Costa Rica,3,61.97,1334004,1797.966457
+Cote d'Ivoire,2,38,3638385,550.6903451
+Croatia,0,64.85,4045251,
+Cuba,3,63.85,7133582,
+Cyprus,0,69.72,572997,
+Czech Republic,0,70.58,9521854,
+Czechoslovakia,0,,13654088,
+Denmark,0,72.28,4579770,11390.66975
+Djibouti,2,45.77,84877,
+Dominica,3,,60015,
+Dominican Republic,3,53.37,3308941,912.469538
+East Germany,0,,,
+Ecuador,3,54.09,4439206,820.3111139
+Egypt,2,48.31,27903093,430.3645317
+El Salvador,3,52.02,2773095,1448.829523
+Equatorial Guinea,2,37.69,252115,
+Eritrea,2,39.03,1423599,
+Eritrea and Ethiopia,2,,25783370,
+Estonia,0,69.42,1216003,
+Ethiopia,2,37.72,22553350,
+Faeroe Islands,0,,34334,
+Falkland Is (Malvinas),3,,2144,
+Fiji,1,55.7,393366,1111.127298
+Finland,0,69.03,4430001,7306.041153
+France,0,70.49,45688594,7499.89477
+French Guiana,3,57.68,32377,
+French Polynesia,1,56.28,79335,
+Gabon,2,38.83,485732,1826.706515
+Gambia,2,35.7,372625,
+Georgia,0,63.5,4159500,
+Germany,0,69.26,72814899,
+Ghana,2,46.34,6742107,282.1084448
+Gibraltar,0,,21518,
+Greece,0,68.41,8333499,3385.660177
+Greenland,0,61.49,32649,
+Grenada,3,60.59,89844,
+Guadeloupe,3,58.91,275526,
+Guam,1,61.24,67436,
+Guatemala,3,46.51,4158956,959.1565444
+Guernsey,0,,46926,
+Guinea,2,35.71,3540756,
+Guinea-Bissau,2,43.14,593289,
+Guyana,3,59.08,560184,688.8561746
+Haiti,3,42.1,3867502,
+Holy See,0,,906,
+Honduras,3,47.71,1999530,751.1958003
+Hong Kong- China,1,67.45,3075605,
+Hungary,0,68.13,9982612,1050.369965
+Iceland,0,74.22,175998,10109.90857
+India,1,41.26,447844159,180.9617325
+Indonesia,1,45.01,91946612,200.6481494
+Iran,1,46,21999103,
+Iraq,1,46.96,7379922,
+Ireland,0,70.76,2828866,
+Isle of Man,0,,48445,
+Israel,1,68.55,2089963,5824.524407
+Italy,0,69.19,49519312,5847.458177
+Jamaica,3,65.91,1629025,
+Japan,1,67.78,92500572,7774.710215
+Jersey,0,,62965,
+Jordan,1,53.3,895357,
+Kazakhstan,1,58.91,9995997,
+Kenya,2,47.42,8105435,261.1191796
+Kiribati,1,45.84,32975,
+North Korea,1,50.9,10946479,
+South Korea,1,53.02,25074152,1153.709962
+"United Korea (former)
+",1,,35176049,
+Kosovo,0,,1335316,
+Kuwait,1,62.15,263718,
+Kyrgyz Republic,1,56.09,2172500,
+Lao,1,42.13,2129968,
+Latvia,0,70.37,2131890,
+Lebanon,1,62.9,1907573,
+Lesotho,2,47.02,851594,132.2258307
+Liberia,2,35.24,1115736,608.0254331
+Libya,2,44.59,1349004,
+Liechtenstein,0,,16561,
+Lithuania,0,70.33,2769849,
+Luxembourg,0,68.99,314002,13702.912
+Macao- China,1,64.93,171450,
+Macedonia- FYR,0,60.85,1391996,
+Madagascar,2,41.96,5103652,409.1168324
+Malawi,2,38.51,3525246,98.63484519
+Malaysia,1,59.89,8160113,812.6158346
+Maldives,1,38.07,90050,
+Mali,2,29.61,5247877,
+Malta,0,68.32,312905,
+Marshall Islands,1,,14661,
+Martinique,3,60.41,281865,
+Mauritania,2,43.91,854167,373.8768493
+Mauritius,2,58.74,659351,
+Mayotte,2,55.09,24055,
+Mexico,3,57.34,38418829,2455.952465
+Micronesia- Fed. Sts.,1,56.82,44536,
+Moldova,0,62.22,3003500,
+Monaco,0,,22135,
+Mongolia,1,49.2,957044,
+Montenegro,0,63.86,466674,
+Montserrat,3,,12095,
+Morocco,2,49.64,11625999,646.0710542
+Mozambique,2,38.17,7647298,
+Myanmar,1,42.25,20957397,
+Namibia,2,47.07,602545,
+Nauru,1,,4433,
+Nepal,1,39.8,9740462,139.0810064
+Netherlands,0,73.35,11418460,8562.936112
+Netherlands Antilles,3,65.6,134776,
+New Caledonia,1,56.38,78005,
+New Zealand,1,71.28,2372000,
+Ngorno-Karabakh,0,,,
+Nicaragua,3,50.69,1772895,1186.478944
+Niger,2,36.82,3249965,313.9101777
+Nigeria,2,40.39,45926253,279.5005049
+Niue,1,,4831,
+Norfolk Island,1,,,
+Northern Cyprus,0,,,
+Northern Mariana Islands,1,,10070,
+Norway,0,73.66,3580998,10695.36321
+Oman,1,44.64,557492,966.5243215
+Pakistan,1,46.79,45920204,187.4651214
+Palau,1,,9638,
+Panama,3,61.62,1128378,1710.511353
+Papua New Guinea,1,38.6,1966961,425.5577906
+Paraguay,3,66.35,1905829,662.8561606
+Peru,3,48.95,9929439,1647.251268
+Philippines,1,58.82,26010295,691.6812069
+Pitcairn,1,,145,
+Poland,0,67.92,29033001,
+Portugal,0,64.23,8882954,2368.672136
+Puerto Rico,3,68.58,2358747,3767.414748
+Qatar,1,60.82,47085,
+Reunion,2,55.73,335329,
+Romania,0,65.92,18407002,
+Russia,0,68.61,119905701,
+Rwanda,2,43.07,2771018,224.9636578
+St. Barthélemy,3,,,
+St. Helena,2,,4738,
+St. Kitts and Nevis,3,,51201,
+St. Lucia,3,56.97,90213,
+St. Martin,3,,,
+St. Vincent and the Grenadines,3,57.85,80948,1324.500088
+St.-Pierre-et-Miquelon,3,,4919,
+Samoa,1,51.45,109917,
+San Marino,0,,15392,
+Sao Tome and Principe,2,51.01,64251,
+Saudi Arabia,1,47.62,4041422,
+Senegal,2,38.46,3047804,613.6279819
+Serbia,0,63.33,7583324,
+Serbia and Montenegro,0,,7932423,
+Serbia excluding Kosovo,0,,6312062,
+Seychelles,2,60.42,41443,1174.613911
+Sierra Leone,2,36.07,2187240,223.3527868
+Singapore,1,65.02,1633694,2251.394511
+Slovak Republic,0,70.42,4093623,
+Slovenia,0,68.62,1580010,
+Solomon Islands,1,50.55,126363,
+Somalia,2,38.34,2819246,
+Somaliland,2,,,
+South Africa,2,49.01,17396477,2203.729076
+South Ossetia,0,,,
+Spain,0,69.23,30413044,3711.099299
+Sri Lanka,1,59.76,10020405,273.7066885
+Sudan,2,49.54,9196306,284.7571459
+Suriname,3,60.58,290000,
+Svalbard,0,,,
+Swaziland,2,44.78,349181,
+Sweden,0,73.01,7480001,11360.40555
+Switzerland,0,71.46,5296052,
+Syria,1,52.87,4566822,482.4968806
+Taiwan,1,64.42,11209000,
+Tajikistan,1,57.1,2082499,
+Tanzania,2,45.57,10074485,
+Thailand,1,55.46,27312399,320.9065099
+Timor-Leste,1,37.74,499676,
+Togo,2,41.06,1577708,176.5698989
+Tokelau,1,,1873,
+Tonga,1,61.2,61601,
+Transnistria,0,,,
+Trinidad and Tobago,3,63.07,841210,3342.312405
+Tunisia,2,43.2,4220701,
+Turkey,0,46.91,28160579,1582.568687
+Turkmenistan,1,54.91,1593501,
+Turks and Caicos Islands,3,,5724,
+Tuvalu,1,,6104,
+Uganda,2,45.27,6788219,
+Ukraine,0,70.88,42783010,
+United Arab Emirates,1,51.85,89871,
+United Kingdom,0,71.02,52544356,10025.3494
+United States,3,69.91,186326215,13723.23778
+Uruguay,3,67.95,2538095,4182.118439
+USSR,0,,213779936,
+Uzbekistan,1,59.35,8558503,
+Wallis et Futuna,1,,8563,
+Vanuatu,3,45.97,63702,
+Venezuela,1,60.08,7562108,5437.469231
+West Bank and Gaza,3,50.82,1069013,
+West Germany,1,,,
+Western Sahara,1,38.37,32806,
+Vietnam,0,58.52,35172657,
+Virgin Islands (U.S.),2,63.75,32632,
+North Yemen (former),1,,,
+South Yemen (former),1,,,
+Yemen,1,32.64,5116419,
+Yugoslavia,0,,18132522,
+Zambia,2,48.34,3044733,547.44288
+Zimbabwe,2,53.11,3752373,389.015773
